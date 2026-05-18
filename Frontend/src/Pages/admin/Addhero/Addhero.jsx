@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./AddHero.css";
-import Sidebar from "../../../Components/Sidebar/Sidebar";
+import Sidebar from "../../../components/Sidebar/Sidebar";
 import Swal from "sweetalert2";
 
 function AddHero() {

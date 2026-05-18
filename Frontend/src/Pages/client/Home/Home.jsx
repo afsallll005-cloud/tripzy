@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from '../../../Components/Navbar/Navbar'
-import Hero from '../../../Components/Hero/Hero'
+import Navbar from '../../../components/Navbar/Navbar'
+import Hero from '../../../components/Hero/Hero'
 import './Home.css'
-import About from '../../../Components/About/About'
-import PackageCards from '../../../Components/PackageCard/PackageCard'
-import Footer from '../../../Components/Footer/Footer'
+import About from '../../../components/About/About'
+import PackageCards from '../../../components/PackageCard/PackageCard'
+import Footer from '../../../components/Footer/Footer'
 
 
 function Home() {

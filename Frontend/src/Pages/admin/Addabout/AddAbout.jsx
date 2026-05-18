@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./AddAbout.css";
-import Sidebar from "../../../Components/Sidebar/Sidebar";
+import Sidebar from "../../../components/Sidebar/Sidebar";
 import toast from "react-hot-toast";
 
 function AddAbout() {

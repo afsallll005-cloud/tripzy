@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import API from "../../../services/api";
 import "./AddPackage.css";
-import Sidebar from "../../../Components/Sidebar/Sidebar";
+import Sidebar from "../../../components/Sidebar/Sidebar";
 
 function AddPackages() {
   const navigate = useNavigate();

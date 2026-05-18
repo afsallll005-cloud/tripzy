@@ -2,8 +2,8 @@ import React from "react";
 import "./Contact.css";
 
 import { motion } from "framer-motion";
-import Navbar from "../../../Components/Navbar/Navbar";
-import Footer from "../../../Components/Footer/Footer";
+import Navbar from "../../../components/Navbar/Navbar";
+import Footer from "../../../components/Footer/Footer";
 
 function Contact() {
   return (

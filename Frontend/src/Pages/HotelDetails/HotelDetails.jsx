@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 
 import API from "../../services/api";
 
-import Navbar from "../../Components/Navbar/Navbar";
-import Amenities from "../../Components/Amenities/Amenities";
-import Footer from "../../Components/Footer/Footer";
+import Navbar from "../../components/Navbar/Navbar";
+import Amenities from "../../components/Amenities/Amenities";
+import Footer from "../../components/Footer/Footer";
 
 import "./HotelDetails.css";
 

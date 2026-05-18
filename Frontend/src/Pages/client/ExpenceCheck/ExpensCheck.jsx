@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./ExpenseCheck.css";
-import Footer from "../../../Components/Footer/Footer";
+import Footer from "../../../components/Footer/Footer";
 
 const catIcons = {
   food: "🍽️",

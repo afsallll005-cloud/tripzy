@@ -10,7 +10,7 @@ import {
   FaClock,
   FaMagic,
 } from "react-icons/fa";
-import Footer from "../../../Components/Footer/Footer";
+import Footer from "../../../components/Footer/Footer";
 
 const itineraryData = {
   Goa: [

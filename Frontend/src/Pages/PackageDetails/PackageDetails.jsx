@@ -7,10 +7,10 @@ import API from "../../services/api";
 
 import "./PackageDetails.css";
 
-import Navbar from "../../Components/Navbar/Navbar";
-import VisitorReviews from "../../Components/VisitorReviews/VisitorReviews";
-import Footer from "../../Components/Footer/Footer";
-import ContactForm from "../../Components/ContactForm/ContactForm";
+import Navbar from "../../components/Navbar/Navbar";
+import VisitorReviews from "../../components/VisitorReviews/VisitorReviews";
+import Footer from "../../components/Footer/Footer";
+import ContactForm from "../../components/ContactForm/ContactForm";
 
 import {
   FaCheckCircle,

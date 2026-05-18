@@ -4,7 +4,7 @@ import { useParams, useNavigate } from "react-router-dom";
 
 import API from "../../../services/api";
 
-import Sidebar from "../../../Components/Sidebar/Sidebar";
+import Sidebar from "../../../components/Sidebar/Sidebar";
 
 import "./PackageHotels.css";
 

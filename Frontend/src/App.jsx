@@ -9,7 +9,7 @@ import {
 
 import { Toaster } from "react-hot-toast";
 
-import ProtectedRoute from './Components/ProtectedRoute';
+// import ProtectedRoute from './Components/ProtectedRoute';
 
 // Admin Pages
 import Dashboard from './Pages/admin/Dashboard/Dashboard';
@@ -41,6 +41,7 @@ import HotelDetails from './Pages/HotelDetails/HotelDetails';
 import Booking from './Pages/Booking/Booking';
 import Payment from './Pages/Payment/Payment';
 import PaymentStaticPage from './Pages/PaymentStaticPage/PaymentStaticPage';
+import ProtectedRoute from './components/ProtectedRoute';
 
 function App() {
 
