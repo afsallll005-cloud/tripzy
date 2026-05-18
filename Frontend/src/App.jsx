@@ -42,6 +42,7 @@ import Booking from './Pages/Booking/Booking';
 import Payment from './Pages/Payment/Payment';
 import PaymentStaticPage from './Pages/PaymentStaticPage/PaymentStaticPage';
 import ProtectedRoute from './components/ProtectedRoute';
+// import ProtectedRoute from './components/ProtectedRoute';
 
 function App() {
 
