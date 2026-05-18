@@ -9,7 +9,7 @@ import {
 
 import { Toaster } from "react-hot-toast";
 
-import ProtectedRoute from './components/ProtectedRoute';
+import ProtectedRoute from './Components/ProtectedRoute';
 
 // Admin Pages
 import Dashboard from './Pages/admin/Dashboard/Dashboard';
