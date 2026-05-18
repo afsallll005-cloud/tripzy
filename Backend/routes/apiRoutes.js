@@ -49,7 +49,7 @@ import {
 } from "../controller/billPaymentController.js";
 import { authMiddleware } from "../middleware/authMiddleware.js";
 import { createMessage, getMessages } from "../controller/messageController.js";
-import { addhero, gethero } from "../controller/controller.js";
+import { addAbout, addhero, getAbout, gethero } from "../controller/controller.js";
 
 /* ================= ROUTER ================= */
 
@@ -71,6 +71,16 @@ const upload = multer({ storage });
 
 
 
+// router.get("/addAbout", getAbout);
+
+// router.post(
+//   "/addAbout",
+//   upload.fields([
+//     { name: "aboutLeftimage", maxCount: 1 },
+//     { name: "aboutRightimage", maxCount: 1 }
+//   ]),
+//   addAbout
+// );
 
 
 
