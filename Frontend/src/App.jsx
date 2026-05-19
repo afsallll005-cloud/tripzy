@@ -14,7 +14,7 @@ import { Toaster } from "react-hot-toast";
 // Admin Pages
 import Dashboard from './Pages/admin/Dashboard/Dashboard';
 import AddHero from './Pages/admin/Addhero/Addhero';
-import AddAbout from './Pages/admin/Addabout/Addabout';
+import AddAbout from "./Pages/admin/Addabout/AddAbout";
 import AddHotel from './Pages/admin/AddHotel/AddHotel';
 import AddRoom from './Pages/admin/AddRoom/AddRoom';
 import ViewBookings from './Pages/admin/ViewBooking/ViewBooking';
